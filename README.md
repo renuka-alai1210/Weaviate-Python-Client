@@ -34,3 +34,18 @@ The Weaviate Python Client is a python package that allows you to connect and in
 
 # Weaviate is a vector search engine
 Instead of just storing raw data like traditional databases do,Weaviate leverages the power of machine learning(ML) models to vectorize the data.What this means,is that the ML-Models try to understand your data while storing it. This allows Weaviate to search, discover and classify similar results in your dataset. Simply put, Weaviate is a database that understandas your data.
+
+It allows you to do the following with any type of unstructured data:
+
+1.search -
+Weaviate is able to search through your data like Google allows you to search over the web.
+
+2.Discover -
+Weaviate can answer questions based on your data
+
+3.Classify -
+Weaviate can classify data from any data source
+
+4.Predict -
+Weaviate can recommend relations in your data
+
